@@ -1,5 +1,12 @@
 # Phase-Lifted RG Memory Flow
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Phase-lifted RG memory flow](images/phase_lifted_rg_flow.gif)
+
+_Hero animation: **Phase-lifted RG memory flow**. [Download high-resolution MP4](images/phase_lifted_rg_flow.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-phase-lifted-rg-memory-flow`  
 **Tier:** derived  
 **Score:** 84  
